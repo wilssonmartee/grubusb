@@ -15,10 +15,13 @@ GIF](https://gitlab.com/aguslr/multibootusb/raw/master/docs/assets/img/demo.gif
 ## Usage
 sh makeUSB.sh --efi /dev/sdb vfat 14G
 
-/dev/sdb: usb name
-efi: allow efi system
-vfat: format
-14G: partition space
+* **/dev/sdb:** usb name
+
+* **efi:** allow efi system
+
+* **vfat:** format
+
+* **14G:** partition space
 
 ## Documentation
 
